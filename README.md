@@ -45,7 +45,7 @@ To start your development server:
     npm run dev
 
 ### Project Structure
-    ```Ruby
+```Ruby
     ├── components/    # Reusable UI components
     ├── pages/         # Next.js pages (each file represents a route)
     ├── public/        # Static assets (images, etc.)
